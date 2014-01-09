@@ -17,48 +17,55 @@ while (x < 8) {
         board.push(new space(x, y));
         y += 1;
     }
-    y= 0;
+    y = 0;
     x += 1;
 }
 
-logit((board));
+logit(queens(board));
 
 function queens(board) {
+
+    console.log(u.where(board, {
+        x: 0
+    }).length);
 
     var x = 0,
         y = 0;
     while (x < 8) {
         while (y < 8) {
             //rank
-            if ((!u.where(board, {
-                x: x
-            }).length > 0)
+            if (!u.some(board, function(i) {
+                return (i.x == x && i.populated);
+            })
             //file
             &&
-            (!u.where(board, {
+            !u.some(board, function(i) {
+                return (i.y == y && i.populated);
+            })) {
+            var p = u.where(board, {
+                x: x,
                 y: y
-            }).length > 0)) {
-                u.where(board, {
-                    x: x,
-                    y: y
-                })[0].populated = true;
-                console.log('match!');
+            })[0];
+            p.populated = true;
+            console.log(p);
+            console.log('match!');
 
-            } else {
-              //  console.log('no match for ' + x + ',' + y);
-            }
-            y += 1;
         }
-        y =0;
-        x += 1;
+        else {
+            //console.log('no match for ' + x + ',' + y);
+        }
+        y += 1;
     }
+    y = 0;
+    x += 1;
+}
     return board;
 }
 
 function logit(b) {
     var x = 0,
         y = 0;
-    var l;
+    var l = '';
     while (x < 8) {
         while (y < 8) {
             if (u.where(b, {
@@ -70,13 +77,11 @@ function logit(b) {
             else {
                 l += '0 ';
             }
-            y+=1;
+            y += 1;
         }
-        y =0;
+        y = 0;
         console.log(l);
         l = '';
-        x+=1
+        x += 1
     }
 }
-
-
