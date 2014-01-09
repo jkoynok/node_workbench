@@ -20,12 +20,12 @@ while (x < 8) {
     x += 1;
 }
 
-logit(queens(board));
+logit(queens(board,7));
 
-function queens(board) {
+function queens(board,startat) {
 
     var x = 0,
-        y = 0;
+        y = startat;
     while (x < 8) {
         while (y < 8) {
             //rank
@@ -48,27 +48,32 @@ function queens(board) {
                     y: y
                 });
                 p.populated = true;
-                console.log(p);
                 console.log('match!');
-
+                console.log(p);
+                break;
             }
             else {
-                //console.log('no match for ' + x + ',' + y);
+                //reset prior
+                  console.log('recursing for (' + x + ',' + y + ')');
+                // var lastcol = x === 0 ? 0 : x - 1;
+                // u.findWhere(board, {
+                //     populated: true,
+                //     x: lastcol
+                // }).populated = 0;
+
+                // //logit(board);
+                // return queens(board);
             }
+            
+            //nothing in this column then 
             y += 1;
         }
         y = 0;
         x += 1;
     }
 
-    if (u.where(board, function(x) {
-        return x.populated;
-    }).length < 8) {
-        //remove and start over
-        console.log('less than 8');
-    }
-
     return board;
+
 }
 
 function logit(b) {
