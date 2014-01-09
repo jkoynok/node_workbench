@@ -36,7 +36,13 @@ function queens(board) {
             &&
             !u.some(board, function(i) {
                 return (i.y == y && i.populated);
-            })) {
+            }) && !u.some(board, function(i) {
+                return ((i.x - i.y == x - y) && i.populated);
+            }) && !u.some(board, function(i) {
+                return ((i.x + i.y == x + y) && i.populated);
+            })
+
+            ) {
                 var p = u.findWhere(board, {
                     x: x,
                     y: y
@@ -54,6 +60,14 @@ function queens(board) {
         y = 0;
         x += 1;
     }
+
+    if (u.where(board, function(x) {
+        return x.populated;
+    }).length < 8) {
+        //remove and start over
+        console.log('less than 8');
+    }
+
     return board;
 }
 
