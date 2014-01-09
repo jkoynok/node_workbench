@@ -1,5 +1,4 @@
 //8 queens
-
 var u = require("underscore");
 
 var space = function(_x, _y) {
@@ -25,10 +24,6 @@ logit(queens(board));
 
 function queens(board) {
 
-    console.log(u.where(board, {
-        x: 0
-    }).length);
-
     var x = 0,
         y = 0;
     while (x < 8) {
@@ -42,23 +37,23 @@ function queens(board) {
             !u.some(board, function(i) {
                 return (i.y == y && i.populated);
             })) {
-            var p = u.where(board, {
-                x: x,
-                y: y
-            })[0];
-            p.populated = true;
-            console.log(p);
-            console.log('match!');
+                var p = u.findWhere(board, {
+                    x: x,
+                    y: y
+                });
+                p.populated = true;
+                console.log(p);
+                console.log('match!');
 
+            }
+            else {
+                //console.log('no match for ' + x + ',' + y);
+            }
+            y += 1;
         }
-        else {
-            //console.log('no match for ' + x + ',' + y);
-        }
-        y += 1;
+        y = 0;
+        x += 1;
     }
-    y = 0;
-    x += 1;
-}
     return board;
 }
 
@@ -68,7 +63,7 @@ function logit(b) {
     var l = '';
     while (x < 8) {
         while (y < 8) {
-            if (u.where(b, {
+            if (u.findWhere(b, {
                 x: x,
                 y: y
             }).populated) {
