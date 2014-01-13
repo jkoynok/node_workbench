@@ -42,6 +42,7 @@ class Node {
 }
 
 $root = new Node(1);
+$root->setParent(null);
 $root->setLeft(new Node(2));
 $root->setRight(new Node(3));
 $root->getLeft()->setLeft(new Node(4));
@@ -77,12 +78,13 @@ $visited = array();
     }
     
     if ($n->getParent() != Null) {
-        inspect($n->getParent());
+    //  return inspect($n->getParent());
     }
  
  }
 
 inspect($root);
+
 ?>
 
 
