@@ -41,5 +41,10 @@ var flipvert = function(a) {
 }
 
 var d = [[1,2],[3,4],[5,6]];
-flipvert(d);
-console.log(d);
+
+var e = [[0,1,0],[0,1,0],[0,1,0]];
+
+var e = transpose(e);   
+flipvert(e);
+console.log(e);
+
