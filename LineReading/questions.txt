@@ -1,0 +1,740 @@
+Q. Tell me about yourself and your last few jobs.
+I've had the change to work on some really cool stuff over that last few years.  I like working with working interesting technologies. 
+
+Q. Describe in detail what you do in your current job (or in your last position).
+I handle full-stack support for a voice-directed warehouse logistics used in DC's.  I handle everything from simple questions, to major production impeding issue to bug fixes to enhancements
+
+Q. What percentage of your week or month was devoted to the different functions of your job?
+50% phone calls
+25% persistent bugs
+15% enhancements
+10% admin
+ 
+Q. What was the most difficult part of your last two jobs?
+
+Getting up to speed on a huge range of solutions.  each customer gets something slightly different.  Prior to that the most difficult part was being able to ensure a level of quality given an extremently fast schedule and limited manpower. What I did to fix that was to demand to use of scheduling and PM taks
+
+
+Q. Describe the best job that you’ve ever had . . . and why it was so much better than others.
+It's hard to rank them because I've lucky enough like them all, but I'd have to say Zap because I learned alot, like the people, and know I help build a good product.
+Q. What is your greatest accomplishment in your present or last job?
+Helping to rebuild team almost from scratch. The team was depleted and there alot of technical and non-technical hurdles to overcome. On the technie end I've learned alot about database concurrency, locking and transactions.
+Q. What specifically have you learned from the jobs that you held most recently?
+In my present position, I've learned alot about working with end users.
+
+Q. In what way has your present job prepared you to take on greater responsibilities? (You’d better have an answer to this question before it ever gets asked.)
+I've picked up a lot of soft skill in terms of dealing with a range of customer type from blue-collar warehouse workers, to analysts to vp's.
+Q. Describe a difficult business problem that you had to deal with and how you handled it?
+Earlier as the team was coming together there was some friction in terms of how to work together.  I found myself acting as a mediator when there conflicts about who was or was not pulling their own weight.  Over five years ago we dealt with the paradoxical problem of sometimes a turnover problem where employee retention was a problem, or a problem where necessary layoffs destroyed morale.  My visible position in IT where I worked with everyone and new the business practices was a place where I expected to address the everyday viability of working in the company by helping people to settle in or continue in their capacities.
+
+Q. Describe the situation in your last one or two jobs where you made a mistake. What was the mistake and how did you rectify it? 
+Early when I started in this jobs a caved to pressure from callers to act urgently at any cost and risk messing things up.  One night I was up all night and made a judgement call of simple sql scripts that caused some major production down time for no reason. The takeaway was if you're not %100 sure of the result of the actions don't do it. Nothing is so urgent that it's worth risking making a situation worse simply for the sake of action.
+Q. Where have you made difficult decisions before and what were they about? (I
+The decision to leave ZAP was one I wrestled with, but I knew it was time to pursue new opportunities.  They were very disappointed I'd decided to move on, but they moved on too and doing even better now.
+Q. Have you ever had to fire someone? Describe the circumstances?
+No, but I've seen many many people lose their jobs due to both perfomance and budgetary reason, I and have had to support managers during that difficult time.
+
+Q. In your present or last jobs were there any problems that you discovered that had been previously overlooked? How did you deal with them?
+
+That we needed a senior engineer with knowledge of the platform
+
+Q. Describe a major project that you have worked on and how it contributed to the overall good of your employer?
+If you have been involved in doing a major project, the perfect phrase would be to simply describe that project in relative detail.
+I have been involved in two major long-term, five-year projects . . .
+This is a place to tell a short story of your and your team’s success.
+Q. Have you ever been involved in long-range planning?
+
+At A&WMA one of the biggest parts was the annual conference.   This involved planning for an event more than 1 year ahead.
+
+Q. Give me an example of your past job experience that highlights your ability to build action plans or create programs that support management’s strategic goals and direction.
+
+
+Q. What were the most important/difficult decisions that you made in your present job, last job, or even your job before that? ( Sometime I’m not sure when to escalate.  Many times I get calls in the middle of the night.  There is real pressure to wake people up, and sometime they are not happy if it’s for bad reason.
+
+Q. What are one or two things you wished you had accomplished in your present or last job and the job before that?
+I was focusing on architecture.  I wanted to get economies of scale in software by developing some components the could be reused instead to custom work.  I made some progress but not as much as I wanted.
+
+Q. Why have you not been promoted sooner? If you’re so good, why haven’t you been promoted? (Don’t let a question like this get under your skin.)
+It hasn’t been a focus.  For me what is primary is working on quality products and services with a great team.  Promotions are usually into management.
+
+Q. What kind of job are you looking for?
+Creative, experimental, high perf, state of the art, business success.
+
+Q. What motivates you?
+To continually grow, change and adapt, to a moving marketplace. 
+
+Q. How do you define success?
+Completing defined objective well. 
+-finishing projects on time on budget with high level of quality.  zap, I did this launching many schools.
+
+
+Q. Are you a good employee (or manager or engineer or accountant or salesperson or administrative support person or . . .)? How do you know?
+
+My performance reviews and salary reviews have always been excellent. My track record reflects my success.  I’m told consistently in reviews that I maintain an excellent level of technical profiency. 
+
+
+Q. What made you choose to become a___________________?
+Fortunately, I have a reasonably good technical mind and the social skills to help deploy tech in the service of human ends, so I’ve followed it as career.
+
+Q. How do you approach doing things that you really don’t like to do?
+Well, attitude is everything.  I just bit the bullet and remind myself that sometime so throw the touchdown and sometimes you gotta just carry the water bucket.
+
+Q. Have you ever failed in a job?
+I’m like a ballplayer who never really lost . . . he just ran out of time. Even the very few things that I look back on and others might see as failures, I really see as setbacks. But even when something didn’t work out, I’ve learned from it.
+
+Q. When faced with a difficult business decision, what do you do? (Make sure you communicate that you do go through a number of processes that communicate wisdom.)
+Experience has taught me to think long and hard about the decisions I make. I think on paper by writing out all of the issues, then seeing how they appear to me over a period of time.
+I seek the opinions of others who are both close to the situation as well as removed from it. I have two or three mentors whom I have developed over the years whose opinions I respect, and I seek their counsel.
+When I have exhausted all of the processes that I might go through, I then follow my gut instinct. Once I have made the decision, I become committed to it 110 percent and throw myself behind it. Unless there is a drastic change in the facts, I am unwavering about the decision.
+Q. How do you keep updated and informed in a professional sense?
+I subscribe to two professional publications: _______________ and _______________. I’m an avid reader and always trying to hone my skills. Lately, I have been reading __________________ by ________________, and have found it very interesting.
+Q. What is the most recent business lesson you have learned and how did you learn it?
+I try to be a lifelong learner. Recently, I learned ______________________________________.
+Be ready with a recent lesson, like “how quickly the market can change.” Tell a story to reinforce your response.
+Q. Can you work overtime or on weekends?
+I’ve done both before every job I’ve had.  
+
+Q. How many hours in your previous jobs did you have to work each week to get the job done? (Don’t fall prey to this loaded question.)
+Gee whiz, I’m not on a clock. I really don’t know.
+If you had a job where you were paid overtime, the hiring authority may be concerned about having to pay a lot of overtime. So, in a situation like this, you would answer by saying:
+I was always very careful to be sure that I didn’t work overtime unless I absolutely had to. I’m a fast worker and usually get my work done in the allotted time. Of course, my references would substantiate this.
+Q. What are some of the things in your last job that you didn’t like?
+I was frustrated because most everybody was so negative about the poor situation of the company. It’s true that the company was eventually sold, but the negativity was hard to deal with on an everyday basis.
+Whatever you didn’t like, make it a values thing or something you could do nothing about.
+Q. What was the last thing you disagreed with your company about?
+I really can’t recall anything of any importance that I minded or disagreed with my company on. If there was something, whatever it might have been, I certainly don’t remember.
+Q. In what areas could your boss do a better job?
+I have a lot of respect for my present boss. He (or she) does his (her) job extremely well. There might be some little things that he (she) might be able to do a little better because of experience, but they must be minor.
+Whatever you say, don’t criticize your boss, no matter what you think of him (or her).
+Q. How well did you feel your boss rated your performance?
+All of the supervisors or bosses I’ve had have given me good reviews.
+If you have copies of any of these, either with you or that you can send to the interviewing authority, doing so would reinforce your claim.
+Q. How did your boss or previous bosses get the best out of you? (This is a little bit of a trick question. Just be ready for a question like this and realize that there is a simple answer.)
+By telling me exactly what the objectives are and then leaving me alone. My motivation is intrinsic.
+Q. Highlight your experience in dealing with interpersonal conflict and disagreements by recalling a difficult situation that you were involved in. (Again, you need to have a story.)
+One of my peers was promoted over me to become my boss. We never got along very well. It has been interesting. I have realized that I shouldn’t compete with him. I sat down with him right when he first got promoted, and we came to an agreement of our mutual expectations. We aren’t the best of friends, but we get along in our environment.
+Q. Give me an example of when you were refused or told “no” by your company or supervisors.
+Two years ago I wanted to go to a tech conference.  It wasn’t in the budget. 
+Q. What is the most recent skill you have learned?
+I’ve recently taken a course on negotiation as well as an online course with one of my company’s proprietary IT applications.
+Show that you are honing your skills all of the time.
+Q. What is the most important professional lesson that you have learned from the jobs that you have had?
+To be ready for the unexpected . . . unexpected consequences . . . unexpected resignations . . . people being people. Since we are going to make mistakes, be prepared. Making the mistakes isn’t the issue; it is knowing how to react to the mistakes, minimize the damage, and rectify them quickly.
+Q. If you could start your career over again, what would you do differently? (I would have developed a local professional network sooner.
+Q. Do you want to move into management?
+
+I do believe I have management potential, but I know that good leaders are also good followers. If I prove myself in my role, if there are opportunities to advance, I’m sure that I will be considered. I will try to do those jobs equally well. If I do the task at hand, future positions will take care of themselves.
+Q. What would be your ideal work group?
+I’ve worked in both large groups as well as small groups. Either one can be ideal.
+Q. How would you define a “good-fit” work environment?
+Where people respect each other and support each other’s work.
+Q. Do you work well with other people?
+Absolutely. In fact, I’m often told how well I work in groups.
+Have a story ready to demonstrate this point.
+Q. Do you prefer to work alone or with other people?
+Either way works well. I’m effective with either situation.
+Q. Do you require lots of supervision?
+Not at all. My references can attest to that.
+Q. Do you communicate best with written or oral communications?
+I seem to do well with either one.
+Q. Are you creative?
+Yes. I came up with a very unique solution to the __________ problem in my present position.
+Simply cite one or two instances where you were creative. Keep all stories short and to the point.
+Q. What are the things that you find most difficult to do? (The answer here has to center around something you would not be expected to know well. For instance, if you are an accountant or an engineer in an organization, you would use the answer that follows.)
+The most difficult challenge I have is to operate in a sales function.
+If you are a salesperson, then you would say:
+The most difficult challenge I have is operating in an accounting or technical function.
+This seems rather obvious, but the answer is very safe.
+Q. And how did you deal with those tasks?
+I found someone in that department whose task was difficult for me to understand (define the department—accounting, engineering, sales, and so on) and asked for their help.
+I often solicit the administrative people in those departments. Those people sometimes aren’t given enough appreciation for what they do and when someone from a different department asks for their help, they are generally more than happy to oblige.
+Q. Has there ever been a situation where your work was criticized?
+
+Sure, but it’s usually good naturedly, along with positive feedback as well. 
+
+
+Q. What do you look for in a job?
+I’d like the work to be challenging. I enjoy being challenged every day. By being challenged, I’m going to grow personally and professionally. If that happens, everything else takes care of itself.
+Q. Do you prefer to delegate or be a hands-on employee?
+I like it when I know how to route a task to the right person who is glad to take responsibilty. But I also like to know my own special areas so both.
+
+
+Q. Describe a situation where you had to make a seat-of-the-pants decision, without a company policy as a model. (Think about two or three situations where you made off-the-cuff decisions and how they wound up being very good decisions. You can tie these decisions to a working philosophy of integrity, character, and a “do-the-right-thing” approach if you really want to look good.)
+-develop plan of attack for mutual
+-server downtime at annual conf
+
+
+Q. For what have you been most frequently criticized? (This is like the question about your biggest weakness. Think of something that could be positive or negative.)
+Extremely idealistic about platforms and architecture.  
+
+
+Q. Tell me about a time when you faced resistance or rejection to your ideas or actions. What did you do?
+
+Using shared libraries. They wanted to keep it separate, but I convinced them it would save work and still be configurable.
+
+
+Q. We sometimes run into a person who makes unreasonable demands of us. Tell me about a time when this happened to you. (Once again, be ready with a story.)
+I worked for a lady like that in my last job. I found that if I simply listened to her demands without reacting at the moment, then came back to her later with logical reasons about what she should expect, I managed to set expectations and get her demands to be more reasonable. The key was to not overreact when the demand was made. I calmed the waters.
+
+Q. Describe a situation where you had worked with a very difficult person. How did you handle it?
+He/she was difficult to work with/for, but I found a way and learned so much from them. I learned that their comments and style weren’t personal and I didn’t take them personally. It turned out to be a great learning experience, even though it was painful at times.
+Q. Describe a situation where you had to make a quick decision in your last job. How do you make it?
+I follow my gut based on some tremendous learning experiences I’ve had . . . both good and bad. For instance, I quickly reprimanded an employee who was difficult and uncooperative. I reprimanded her a number of times, so when I needed to fire her, we had plenty of documentation.
+Q. How many levels of management have you had to communicate with?
+In the smaller firms I have worked for, I communicated often with the CEO, even the board. In the larger firms, it was usually two levels up.
+Q. Tell me about an experience that illustrates your preference between being proactive in speaking to and maintaining contact with others and waiting for others to speak first or contact you.
+Some times this takes courage to broach a topic or break the ice.  Especially related to staffing. 
+
+Q. How have you shown resilience in the face of . . . ?
+CONFLICT:
+I stay calm . . . don’t react to the emotion of the moment. I go away, take a deep breath, relax, and think.
+FRUSTRATING CIRCUMSTANCES:
+I try to remember, “This too will pass.” We have been frustrated before and come out OK.
+CONSTRAINTS:
+I think about possibilities, see the glass as half full not half empty, and look for the positive.
+RAPIDLY CHANGING CIRCUMSTANCES:
+I think fast . . . think about possibilities . . . this could change again at any time.
+SHIFTING PRIORITIES:
+I’m really good at being ready for change.
+ADVERSITY:
+I remember the quote from Nietzsche: “What doesn’t kill me makes me stronger.”
+MULTIPLE DEMANDS UPON TIME AND OTHER RESOURCES:
+I prioritize, prioritize, and prioritize!
+Q. Do you know when to lead and when to follow?
+Good leaders are always good followers. I really try to do both.
+
+
+
+Q. Can you identify the critical needs in a situation, deal with them, and put the others on the back burner?
+QUESTIONS ABOUT THE JOB ITSELF
+Hiring authorities want to find out what you know about the job you’re applying for. Are you simply responding to a job posting or do you really have interest in the job and the company?
+Q. What do you know about the position you are applying for?
+I know your organization is the kind that I would like to join, and from what I understand, my skills fit best in this position. Can you enlighten me as to exactly what this position entails?
+This answer gets the interviewer to tell you more about the position.
+Q. What makes you think you can handle this position?
+In my last two jobs, I inherited a disaster. I’ve always been able to deal with very difficult situations.
+Have one or two stories ready to back this statement up.
+Q. The job for which you are interviewing requires you to wear a lot of different hats. You have never done some of these functions. How do we know that you are going to be able to do them?
+Even though my primary functions were _______ and ______, in most of my positions I have successfully handled several different roles.
+Then provide examples of where you performed a number of diverse activities.
+Q. How do we know that you will be successful at this job?
+I’ve been successful before; therefore, I know I will be successful again.
+If you have to back up your statement, you can do it with success stories.
+Q. What can you contribute most to our organization?
+Over and above my excellent professional performance, as I’ve documented in previous positions, I work harder and am more committed to work than most employees. Next to my relationship with my family comes my work.
+Q. What do you think makes the position you are interviewing for different from the jobs you’ve had or the other positions you are interviewing for? (Make sure that you communicate very positive reasons as to why the job you are interviewing for would be a better fit than the one you had in the past.)
+The job here would be a great challenge. The best part is that the people here are really good. You all have done a great job in collecting the right folks.
+Q. You seem overqualified for this job. You did this kind of thing a number of years ago. Why would you consider doing it again?
+I’ve found that very few people are overqualified if they understand the challenge that the particular job would entail. Some of the most challenging things that I’ve done and the most gratifying were when I did this kind of thing at XYZ Corporation.
+This question comes from the interviewer’s fear that, if you take the job, you will stay for a short time. You must reassure him that this isn’t the case. My long-time friend and Grande Dame of all things career, Joyce Lain Kennedy (America’s original careers columnist and author of twenty-three books on career development and management), suggests that “overqualified is usually code for one of five perceptions—too many years’ experience, too much education, too highly paid, too rigid with demands, or too rusted with obsolete skills.” She goes on to say, “Why go down with a one-word knockout punch? Come back with a strong response—or even a preemptive strike to clear the air.”
+I wouldn’t accept the job if I thought I wouldn’t be in it for a very long period of time. I wouldn’t do that to you or to myself. The challenge in a job is what an employee makes it.
+I know exactly what I’m getting into. You’ll notice that I’ve been on average five (six, seven, eight) years on the last few jobs that I’ve had, and I would expect to be on this one for as long as it’s here.
+Q. How does our position compare with the other opportunities for which you are currently interviewing? (If you are considering other opportunities—and only if you are—use the powerful phrase that follows.)
+Taking into consideration everything I know about the other opportunities I am interviewing for, the position here with you seems to be a little bit of a better match.
+Just be sure that you have good reasons for saying that.
+Q. If you could, what would you change about the position you’re interviewing for?
+Based on most everything I know, it seems that what you are asking for in the function of the position is reasonable. I really don’t know enough about the position to know what might or should be changed.
+Q. What do you like most about this position? And what do you like least about this position?
+I’m very anxious to take on the responsibility of this job. _________ and __________ about the job are most exhilarating. I don’t really think that there’s anything about the job that I’ve heard so far that I’m going to dislike. I’m sure there are going to be some things that I will like more than others, but that’s to be expected in any job.
+Q. Why should I hire you?
+Because I can do the job, I’m a hard worker, people like me, I’m not a great risk, and I’m sure we can come to an agreement about money.
+Q. If you were offered this job, how long will it take you to decide?
+If I were offered the job, I should be able let you know within a day or, at the most, two.
+Q. How long would you expect to be at this position if you got it?
+
+Every time I have left any situation, it has been primarily because I was really limited. I am very patient and have explored every opportunity to the maximum. There was no personal growth in the situations, even after I gave it time. As long as I am growing personally, intellectually, and professionally, I am committed to staying as long as I can. I hate changing jobs and companies.
+
+Q. What do you know about our business?
+From my research, I know that ________________ (for example, you are a leader in _______, you all are new to _______, or the firm is growing rapidly).
+Communicate short, direct bits of information about their company and their business.
+Q. What is our business’s biggest challenge or problem?
+From my research I know __________________. Is that correct?
+Again, it isn’t hard to get this information.
+Q. What trends do you see in our profession or industry?
+My research and experience says ____________________________.
+Be sure you have a good business observation.
+Q. What do you know about our competition?
+My research tells me that they really respect you. They say you are really a formidable competitor.
+Q. What do you know about our company?
+My research has revealed three things. First, _________________. Second, ________________________. Third, _______________________.
+These points should be really good insights into the company. By the way, stating “first,” “second,” and “third” followed by concise points makes a great impression of precise thinking.
+Q. Why did you apply to our company? (Here’s a chance to demonstrate the research you’ve done on the company and to communicate your specific skills by using the following powerful phrase.)
+You and your firm are leaders in the business (specify business, for example, accounting, finance, engineering, design). I have been a very hard-working and successful ______________ (accountant, financial manager, engineer, designer). I want to be associated with winners.
+Q. If you could choose any organization to work for, where would you go?
+I’m at a point in my career where I know the landscape very well and can make a confident decision.  I consider your firm as one of the best opportunities available to me.
+Q. How long do you think it will take for you to make a meaningful contribution to our organization?
+
+Depending on the duties, a number of weeks.
+
+
+Q. What reservations might you have about working here?
+
+None that I know of. No job or company is perfect, and I’m sure that you have your positives and negatives just like any other company.
+
+Q. Are you a leader or follower?
+Well, in certain situations I am a leader and in certain situations I am a follower. I can be both.
+Reinforce this answer with stories, if possible.
+Q. What do people like most about you?
+People seem to appreciate that I am a team player (deal well in tense situations . . . volunteer to help . . . communicate well both up and down the chain of command).  Have a sense of humor, am informal and approachable, listend to people, really hear them out and provide feedback on what they’re saying the proves I hear them.
+
+
+Q. What do they like least? (Regarding what people like least about you, keep your answer light. Laugh and say something like the following example.)
+They’re stunned that I’m not into sports or gaming….
+
+Q. What are your three greatest strengths? (Strengths should be easy for you to come up with. You should determine your answers well before you even start interviewing.)
+I’m a very hard worker, determined and persistent.
+-affable and approachable
+-good listener, attentive
+-both analytical and creative
+-strong work ethic.
+
+Q. What are your three greatest weaknesses? (Weaknesses are always difficult, but make sure your “weaknesses” can also be strengths.)
+Well, I’m often impatient with myself.
+or
+I often expect the same passion and commitment from the others that I tend to have.
+I have known people to say just plain stupid things like, “Well, to be honest, I talk too much” . . . “I’m late a lot” . . . “I seem to have bad luck in jobs and get fired” . . . “I have bad luck with women and jobs” . . . “I get bored easily.” Don’t say anything remotely like that!
+Q. What are your hobbies? Outside interests? Books you’ve read recently? (Make your hobbies “safe” and related to the business world. Don’t talk about anything controversial like church groups or political groups unless you know the interviewing authority feels the same way you do. Talk about hobbies like golf, tennis, running, cycling, and so on.)
+My woodworking hobby allows me to work with my hands. When my mind is relaxing while doing it, I often think of business solutions.
+When asked about books you’ve been reading, make sure you are reading some kind of business-oriented book and mention it. This kind of question is easy to prepare for and you can give the same answer to everyone.
+I’m rereading Great by Choice by Jim Collins. Every time I read it I come up with some new ideas.
+Q. What do you like and dislike about your present boss?
+I really like him (or her) as a person and have learned a lot from him (or her).
+Do not say anything negative about your current boss.
+Q. How do you handle criticism?
+I really do appreciate constructive criticism; I think feedback is the breakfast of champions. I am my own worst critic, but I really like hearing what other people think.
+Q. Rate yourself on the scale of one to ten.
+Well, my spouse thinks I’m a ten . . . sometimes! However, when I rate myself, I am an eight or nine in some things and a six or seven in others. But you will find I do my dead-level best to do well in everything I do.
+Q. How would others at your present or previous jobs rate you on a scale of one to ten?
+I think some of them would rate me as an eight or nine in some of the things I do and six or seven in other things I do. But they do know that I try to do my best in everything I do.
+Q. Do you ever lie? (This is a catch-22 question.)
+If I’m invited to a social occasion that I really don’t want to go to, I will say that I have other plans. I guess, technically, that’s a lie, but I see no sense in hurting other people’s feelings by telling them that I don’t wish to socialize with them.
+If the interviewer probes deeper on this question, offer this phrase:
+It is important to be truthful in all aspects of business. I think lying is basically wrong and should only be used in situations as the last graceful alternative where the results are inconsequential.
+Q. What are one or two things your present or previous coworkers dislike about you?
+Nobody has ever outright told me anything about myself that they said they disliked. I sometimes get the feeling that my work ethic and my striving for perfection irritate some people.
+I’m often very direct and to the point. I’m not sure everybody can handle that kind of honesty.
+Q. What makes you mad?
+When people behave rudely or selfishly for an extended period of time.  I’m always ready to overlook small things in that area, but sometime things can come to a head.
+
+
+
+Q. How do you make your opinions known when you disagree with management or your boss?
+If my opinions are sought out, I respectfully offer them. If they’re not sought out, and it is not within my responsibility, I probably wouldn’t offer my opinion.
+If I felt strongly enough about the issue and thought it was important to voice my opinion, I would make a private appointment with the appropriate person to discuss my thoughts.
+
+
+Q. If you knew then what you know now, how would you change your life or your career?(This is a really good question and you need to have a really good answer for it. You should mention things that might be obvious. For instance, if you have not completed your degree, you might say that, looking back on it, you would have finished your degree. If you have had a couple of very short-term jobs on your resume, you might say that if you knew then what you know now, you wouldn’t have taken those jobs. After you mention the obvious things, use the following powerful phrase.)
+The important thing, for me, is that I’ve learned from every mistake I’ve ever made and, fortunately, I haven’t made the same mistake more than once. I know I will make others, but I’m going to make the best of what I learn from them, too. It would be nice if the lessons hadn’t been so painful.
+Don’t ever say that you “wouldn’t change a thing” because, even it if this is true, not many people will believe you.
+Q. What is your definition of success? Of failure? (These are loaded questions that have no absolutely correct answer.)
+Success for me is the constant pursuit of a worthy goal where I am personally growing and economically providing for myself and my family.
+The only definition of failure, for me, would be when people quit trying and give up. Failure is not an option for me, nor should it be for anyone else.
+Q. What makes you better than any other candidate I can hire?
+On paper, I may not be better than anyone else. But I am a very hard worker, and I am determined to be successful. In the final analysis, I have more passion and commitment to the job than most people do.
+So, with me, you get passion, commitment, and determination far above what you’d probably get in most anybody else.
+Q. I’m sure that there were some policies in your previous companies that you didn’t agree with. How did you handle those?
+There might have been some minor policies and procedures that I didn’t agree with, but, for the most part, the policies and procedures were for the good of the company and everybody in it.
+Don’t ever bad-mouth previous employers or their policies!
+Q. What kind of people do you hang out with? (Be a little careful with this question. Some interviewing authorities may be trying to ask you about church groups, political organizations, ethnic groups, and so forth.)
+I have a diverse group of friends who are all very interesting.
+If you were asked about hobbies and you mentioned golf or tennis, you might say that you hang out with people like that.
+Q. How would you describe your personality?
+I’m pretty even-keeled. I can get excited about stuff but take it all in stride. I try not to let the highs be too high and the lows be too low.
+Q. We’re a very aggressive organization here. You seem to be a fairly laid-back, rather quiet person. How do you get along with aggressive folks?
+When people get to know me, they don’t think that I am really all that quiet. I am intensely interested in the opportunity with your company, so I’m trying to listen hard to what you’re saying.
+I’ve always been able to get along with just about every kind of person and personality.
+Q. How did you feel the last time you joined a new company and a new group of people? How long did it take you to integrate with them personally?
+It didn’t take me long to get to know and integrate well with the people with whom I worked. I try to start out asking people about themselves—everybody’s favorite subject—and that gets me accepted pretty fast.
+Q. How do you deal with people who you don’t like and who don’t like you in the workplace?
+I try to respect all of the people whom I encounter; even the people I don’t particularly like or who don’t seem to respect me. I deal with everybody on a professional level and try to keep personal relationships at work to a minimum.
+I have to appreciate everyone, but I don’t necessarily have to like them.
+Q. Describe a very difficult person that you had to work with and how you handled the situation? (You can begin to answer this question in a light-hearted way by smiling and saying, “My teenage daughter at times . . .” but then add something powerful.)
+Seriously, I’ve never really had a problem with difficult people even if they did not respect me personally. I have found the best way to deal with difficult people, as with all other people in the workplace, is to perform so well that my work speaks for me, and what people think of me personally doesn’t really matter.
+Q. Have you ever gotten personally involved or socially close to anyone at your work?
+I keep my personal life and business life separate. I have seen situations where people have become personally involved when they work together, and it usually leads to nothing but a disaster. It just plain isn’t smart.
+Q. On a personal level what would your previous boss or present boss say about you?
+I’ve always got along very well with my bosses. I think that everyone I’ve ever worked for both directly and indirectly thought highly of me. But beyond social engagements like dinners or golf games, I’ve always tried to keep our relationships on a business level.
+Q. We play a lot of poker (or, for example, golf, tennis, or bowling) around here. Are you any good at it? (Even if you are a scratch golfer, never admit to being really good at any social game or endeavor. You set yourself up as “someone to beat.” The phrase to use should be what follows.)
+I do enjoy a competitive game of poker and seem to be able to hold my own.
+Q. What was it like for you growing up? (The best answer is to describe your growing up as a “great” experience.)
+Growing up was a great experience. My family instilled excellent values and a strong work ethic. I’m very fortunate.
+If, in growing up, you had to overcome personal or family challenges, and they communicate a positive attitude or strong work ethic, certainly you can describe the experience. But be careful what you say!
+Q. Have you ever had to overcome any personal hardships? (Whatever you’d do, do not describe your terrible, acrimonious divorces; your run-ins with the law; your DWIs; your being thrown out of your house by your spouse; your three bankruptcies; or anything that communicates poor judgment.)
+We didn’t grow up with a lot of money. Since I was 18, I have been pretty much on my own. I put myself through college and graduate school. Looking back, what seemed to be hardships at the time were really blessings. I learned from every one of them.
+Q. If you were to invite three famous people to dinner, whom would you invite? (This is a dumb question, but if you are asked it, you pretty much have to answer it. Avoid politicians, religious figures, entertainers, or anybody else who could be considered remotely controversial. Sticking to business-oriented individuals, alive or dead, is safe.)
+Jack Welch, Warren Buffett, and Bill Gates.
+You could also pick people known for their business writing, such as:
+Malcom Gladwell, Tom Peters, and Peter Drucker.
+Q. If you were me, what question should I ask that you really don’t want to answer? (This is also a dumb question, but it gets asked more than most people might think. The idea is to take you off your guard. Be ready! Keep your answer very light and almost funny.)
+My golf handicap.
+Q. Do you like me as a person?
+Well, I don’t know you very well at all. I think we have good chemistry. You are a very good interviewer.
+Q. Describe a situation where you personally or professionally failed? (Watch out for this trap. Be ready for this question and answer it with a “safe” story—something like not making your high-school or college basketball team, getting a B in a very difficult class, or not getting a promotion that you felt you deserved will work.)
+I failed to get into any of the three Ivy League colleges I applied to. I put a tremendous amount of effort in getting accepted to those schools. It was disappointing. I ended up going to the state school and it turned out to be a wonderful experience. I wouldn’t trade it for the world.
+If you describe a professional failure, make sure you don’t blame other people. Take responsibility in the right way. Say something like:
+We misjudged the market.
+or
+We didn’t see the recession coming.
+Never blame others for your mistakes, even if they were part of it. You don’t want to be perceived as a finger-pointer.
+Q. How do you rank yourself personally and professionally among your peers? (You don’t want to be too boastful or too humble in answering this question.)
+I have been fortunate to work with a very successful, hard-driving organization where the performance bar is set pretty high. It is a great challenge to work with such a high-caliber group. Sometimes I outperform most everyone, and sometimes I am outperformed.
+The great thing is that regardless of my rank, I am pressed to perform my best every time. Whether I come in first, second, or third isn’t as important as the fact that I grow personally every day.
+Q. Do you have personal and professional goals?
+I have personal and professional goals. I write them at the beginning of every year, review them daily, and assess them quarterly. I believe everyone has to have goals.
+Q. Who is your greatest personal mentor? (One has to be careful here. You need to be careful. Saying something like, “Jesus Christ, my Lord and savior,” might be the truth, but it is real risky to say. You’re on much safer ground with examples like those that follow.)
+My mother . . . my father . . . my older brother or sister . . . my high school football coach . . . my first boss.
+Then give a short story about how this person was your mentor.
+Q. What is the biggest personal mistake you have ever made? (This is a loaded question. If you say something like, “I married the wrong person and it turned out to be a disaster,” you run a real risk. It is simply too emotionally charged and you never know how the hiring or interviewing authority is going to interpret the answer. So, it is best to play it safe and come up with something like making a personal investment that went badly, not finishing a degree, or taking a job that turned out to be a poor decision due to not doing enough due diligence.)
+I invested in a company that went bust in the last recession. It cost me a lot of money.
+Q. How did you get your last job?
+I worked through a great recruiter who not only got me the interview, but helped me beat out nine other very qualified candidates.
+Q. What do you do in your spare time? (Your answer to this minor question could wind up being a major mistake. If you say something like, “I work on my golf handicap every chance I get,” the hiring authority may fear that you are going to be playing golf when you are supposed to be making sales calls.)
+Business is my avocation as well as my vocation. I read a lot of business books and attend lots of seminars on my own time.
+Q. What you think about yourself is most important to us? (If this question comes in the beginning of the interviewing process, then you want to sell the simple but important aspects that a company would want you to have as an employee.)
+My commitment, passion, and hard work.
+If you’re deeper into the interviewing process and you have really done your homework, you should be aware of the most important attributes that the organization is looking for in any candidate.
+I understand you all would like to get the company to $200 million. I have helped two organizations double their size in the last ten years. One went from $200 million to $400 million and another from $250 million to $500 million.
+I know how to help get you where you want to go.
+Q. Tell me about a business experience where you had to decide to either lead or to follow. What choice did you make and how did it turn out?
+In my last position I took on responsibility for leading the conversion project because I had a hands-on knowledge of the accounting system and had worked with the SAP software before. Although there were others that had been with the firm longer, it was clear I could be the most logical choice. The project was delivered three weeks earlier than we projected.
+or
+Every good leader knows when to follow. When it’s clear that a situation calls for me to listen to others, I go with the flow.
+Q. Tell me about a time when you practiced diplomacy when communicating with another person or group. (Simply be ready for this question with a reasonable story.)
+Last year, I had to disband one of the departments that I managed. We laid two people off and reassigned four others throughout the company. It was a purely economic decision, but politically very touchy.
+We were so careful about the whole process, even with the people we laid off, that when we invited one of them to return to work after four weeks, he came back with no hard feelings.
+
+
+Q. What have you done to implement improvements in your work group organization? (Your answer to this question should be decisive and precise.)
+I invited a productivity consultant into the organization and the whole department took his instructions. It required them to stay late an hour and a half one evening a week for eight weeks, but it was well worth it. Our productivity improved 15 percent.
+Q. Sometimes we have to bring conflict out into the open and other times avoid it. Tell me about when you’ve had to make a choice like this.
+Our customer service people were constantly angry at our outside salespeople because they claimed the salespeople were promising things we couldn’t do, like with pricing and delivery times. I brought them together for 45-minute meetings every week to review the accounts. It promoted a “we-are-all-in-this-together” attitude. After the first rather tense meeting, everyone resolved the conflict and things have become a lot better.
+Q. We all have to deal with power struggles or resolve win/lose situations. Tell me about the last time you were involved in such a situation. (Depending on how the interview is going, you might laugh and say, “Well the last time was my spouse and I were deciding where to go to dinner. . . . I let him/her win.” Then follow up with a serious work-related answer.)
+My experience has been to create a situation where no one feels like they lose. The environment has to be “we are all in this together.” When one loses, we all lose; when one wins, we all win.
+Follow with an appropriate story.
+Q. Describe to me how you make decisions. (If this question catches you off guard, you’ll be dead in the water. Saying things like, “Well I just follow my gut” won’t be a good answer.)
+I sort out all the facts and write them out so I can see the pros and cons. I ask advice from people with experience and knowledge. Then I decide. It’s important to make the right decision, of course, but I’ve learned that if I ever come to the conclusion that my decision was wrong, I need to admit it and change it quickly.
+Q. Describe a time when an external customer tried to get something from you or your company that they didn’t deserve, maybe not outright cheating, but close to it. How did you handle it and what did you do?
+I had a situation where I knew the customer was being totally unreasonable. The customer’s CEO was fond of yelling and screaming at people, getting them emotionally upset, and eventually getting his way. I didn’t give in to that. I sent him an e-mail and made a reasonable offer to compromise. He kept trying to call me. He even called my boss and yelled at him. After a number of weeks, we agreed to settle.
+Q. Describe a time when an internal customer tried your patience.
+Our accounting department was consistently getting reports to us so late that our reports to the board were being thrown together at the last minute. Accounting people, in situations like this, aren’t very flexible. So, I simply went to the departments that were giving the accounting department the information they needed and moved their deadline dates back one week. The accounting department was happy and so was everyone else.
+Q. Priorities constantly change in our firm. Recurring challenges and limitations to resources push us really hard. Often it is hard to maintain a positive attitude, and the department gets emotionally down. Has this ever happened to you and how did you deal with it?
+I try to look for the positive in every situation. That doesn’t mean that I ignore reality, it just means I say to myself and the folks I work with, “There’s a positive solution to this . . . what is it?” and say things like, “Two years from now we’ll look upon this and laugh about how we solved the problem.” This kind of positive attitude is very infectious and people buy into it.
+Q. We all have times when we are very proud of what we’ve accomplished, and sometimes we don’t receive the recognition we think we should. Tell me about a time that this has happened to you and how did you deal with it?
+Getting external recognition isn’t as important to me as my knowing that I have done a good job. I’m intrinsically motivated. I care more about living up to my own expectations than hearing praise from others.
+Q. Describe a situation where you demonstrated a high level of commitment to an organization where you worked. (Be ready for a question like this. If you say something like, “I  stayed late when I needed to . . . worked overtime when necessary . . . came in on the weekends when I had to,” or something weak like that, you will lose points for a poor answer.)
+Another department manager had a heart attack in the middle of chairing a major committee. I happened to be on the committee. Most everyone was at a loss as to what to do and how long it would take him to get back and so on. I volunteered to chair the group. Unfortunately, he never came back and took early retirement. But our committee accomplished its task.
+Q. What have you done in the past that has demonstrated a high level of personal integrity?
+My department miscalculated the costs on one of the proposals we made to a client. After we won the contract, we realized our mistake. I went to our CEO and explained the situation. He wasn’t a happy camper! We decided that I would call the customer and explain what happened. The customer realized that we needed to make a profit in order to fulfill service after the project was completed. We compromised and wound up getting two more jobs from that organization.
+Q. What was the last creative idea that you came up with that affected the group or company that you now work for? How did you come up with the idea? (You’d better have a good answer for this question. If you have to think about the answer for more than just a moment, you won’t appear like you’re telling the truth.)
+When one of our major customers signed a multiyear contract with us, I came up with the idea to station one of our employees on-site with the client. This facilitated communications with the customer as well as made the customer feel important. The idea just seemed like a logical thing to do.
+Q. What will your boss say when you resign? Will he or she be upset?
+I’m sure my boss will be somewhat disappointed, but he (or she) has always been the kind of person who wants what’s best for everyone in their organization. If finding a new job is best for my family and me, my boss might be unhappy about the situation for his and our company’s sake, but he (or she) will be pleased for me.
+Q. What will you miss most about your present job?
+
+The people. It seems like every place I’ve ever worked, I’ve had the good fortune to work with wonderful people. But I’ll bet there are wonderful people here in your organization also.
+
+Q. Why do you want to leave where you are? . . . or . . . Why did you leave your last position? (Remember. Employers identify with other employers. Saying anything negative or disparaging about the company that you are presently with, or are leaving, is not going to do you well. Let me repeat: Saying anything negative about the people that you are working for or have worked for will be disastrous.)
+I really love my job, I like the people I work with, and I appreciate everything the organization has done for me. However, the company is in the process of being sold (or under new management or has been contracting for the past few years and so on), and I am personally stymied in my professional challenge and personal growth.
+Now that you’ve laid the groundwork, you want to explain your move in a way the hiring authority will understand. You’re not being negative about your current (or previous) company; you’re just looking for a better position.
+I can stay in the position that I am in, but for the next several years I’m not going to be able to grow beyond the job I’m in now. Since my growth is limited, both personally and professionally, everything else, including my earnings, will stagnate. I owe it to myself and my family to seek a new opportunity where I can grow and be challenged beyond the position that I have now.
+You can also describe the job for which you’re interviewing as an advancement over the job you have now and mention how much you will contribute to their company if they hire you.
+This particular position that I’m interviewing for will give me the opportunity to_____________________________, as well as really contribute to the growth of your organization. I’m just not able to do that where I am now. It isn’t anybody’s fault. It’s the nature of what we do and the size of our organization.
+Q. You’ve stayed short periods of time in your last three jobs. What’s wrong? 
+
+having been a long term employee I know first hand what it means when you invest in a new person and leave quickly.  I’ve seen it here and at A&WMA.   At 14 months I’ve made a contribution.  Personally it’s better to stay longer than 2 years.  I can’t afford to lots of turnover on my resume any more and I’m making a much more careful decision this time around.
+
+There were aspect of this company I was not aware of such as the ensuing turnover and business downturn that are completely outside my control.  What I really want is some stability and more engagement.  Most of working years have gone by without the slightest thought of moving on.  When I’m engaged in the business I do not get wandering eyes because because I’m committed to the work.
+
+
+Q. You have been or were out of work for six months (or eight months or one year to two years or . . . ). What’s wrong? Why haven’t you been able to find a job?
+
+I’m far from independently wealthy and live frugally so i was able take that amount of time off by choice while I worked on other projects and took some time to assessewhat a next step will be.  I actively spoke with 6-10 different companies. What I found was that a general Software Engineer or Developer role was not what I was looking for and that I can fulfill a really important niche in support.
+
+Q. This position is one or two levels below the jobs you’ve had in the past. How do we know we won’t hire you, and then in six or seven months someone calls you with a position like that and you leave? 
+
+I am very familiar with the marketplace in pittsburgh for my field. I can say confidently that I’m really excited at this prospect in a way I was not about Lucas.  I’m proud of the prospect of leaving after only 1.5 years because I know what it’s like to be a long term employee and now what an investment it is bring in someone new.  But that said, I think my current employee can handle this situation.
+
+Q. Why did you leave your last job so abruptly? . . . or . . . Why do you want to leave your current job? How do I know you won’t do the same here? 
+
+I am really grateful for the work I’m doing now and have a high regard for everyone I work with, but I’ve reached a point where the opportunity for me to grow both personally and professionally just isn’t there.  The support departement is geared toward junior level workers.  They are good people and have been good to me. I will certainly miss them, and I’m sure that they will miss me,  but I am capable of greater responsibility and authority and the odds of me getting that where I am just aren’t very great.
+
+
+Q. Were you fired? And why were you fired? 
+
+No, I’ve always moved from a job on a voluntary basis.  I was close once tho, my first job waiting tables at a Denny’s.  A customer feedback card complained over bad service from someone who fit my description. Being 16 I had a lot to learn and some people there didn’t like my attitude because I hadn’t shown tact. When brought in to the office I was asked to explain. I said it could have been me, but the card was dated and it said let’s check the book. It turned out I wasn’t even working that day and it was another guy. I only learned later that the super was going to fire me.
+
+Q. Where do you see yourself five years from now . . . or how does this job fit into your career goals? 
+
+I’m not sure of exactly what kind of position I will have in five years, but my goal is to be performing in a challenging position where my company feels like I’m contributing to its success, taking advantage of every attribute that I have. I feel that if I do the very best I can every day, push myself to the limit, grow personally and professionally, then tomorrow, as well as five years from now, will take care of itself.
+
+Q. How much time did you take off last year? (Be truthful about this answer. After all, if a company checks your previous employment reference, one question they might ask will be about  an excessive number of absences. So, if you were absent from work an inordinate amount of time in the past year, be sure to communicate that the circumstances were out of the ordinary and that being absent from work is not a habit for you.)
+I used all 2 weeks and took one sick day since I started.
+Q. Have you ever had personal financial difficulties? (If you have had personal credit challenges caused by a bankruptcy, divorce, being out of work for so long, or any other less than positive circumstance, the best thing to do it is to admit that your credit has been “bruised” and enumerate the circumstances that caused the issue. If you think that a rough credit history may be an issue for a prospective employer, don’t let him or her find out about it when they do a credit  check.)
+Unfortunately, in this last recession, I had some real problems with my credit. It has been bruised. But I have recovered and repaired the damage.
+If you had to file bankruptcy, the phrase to use is:
+You need to know that I have filed bankruptcy. However, I have repaired the damage and have had no challenges recently.
+Q. If you inherited a lot of money, say $2 or $3 million, what would you do?
+I worked all my life and no matter how much money I might have in the bank, I would foresee continuing to work.
+No one really knows what they would do if they inherited a lot of money, so this really is a silly question. However, the hiring authority is afraid of hiring someone and then having that person soon quit, whatever the reason.
+
+Q. If a personal commitment conflicts with a business emergency, what do you do? (This is a somewhat loaded question.)
+ Because of my personal situation, I doubt that I would have to make that choice. I'm single with no major social commitments. 
+Q. If you could start your career over again, what would you do differently? (This is kind of a trick question. Whatever you do, don’t go overboard about all the mistakes you’ve made and what you would have done differently.)
+You know, I’ve been fortunate; I haven’t made too many mistakes in my career, and I’ve sure learned a lot from the ones that I made. There aren’t very many career choices or decisions that I would change.
+Q. How long will you stay with us if you are hired or How do I know that you will stay with us for a reasonable period of time to be effective?
+As you can see, I’ve been very stable in the positions I’ve had before, and I would expect that as long as the opportunity is fulfilling and the company is pleased with my work, I will stay just as long here. I have never really left my jobs so much as the jobs have left me for one reason or another.
+Or you can use this powerful phrase:
+My experience has been that as long as I’m challenged and the company I work for is pleased with my work, we both grow. As long as both of us are growing, there’s no real need for either one of us to make a change.
+Q. Have you ever been asked in any of your jobs to do something unethical? How did you handle it? ( Luckily I've always worked at places with a high level of ethics.
+Q. You are awfully young for this position, aren’t you? (See the previous question. Without the statement that follows above, it may relate more to your fitting in than to your age. So, it might be a good idea to clarify the question in your response.)
+I have found that maturity is more an issue of contributing to an organization than one of age. I have been fortunate enough to be in situations where I was able to contribute and grow. Are you asking this because there are few people in the organization my age?
+Once you get the answer to your question, you can assure the interviewing or hiring authority that you have been in this situation before.
+I have always been in departments where I have been younger than most anybody the group. In checking my references you’ll find that this has never been an issue—for them or for me.
+Q. You will be older than anyone else here . . . how does that make you feel?
+I have worked in organizations where I was older than the majority of the employees and it wasn’t a problem. In fact, I’ve provided a great balance of experience that others didn’t have. It was great.
+Q. Were you ever denied a pay raise, got a poor performance review, or were passed up for a promotion? What did you do?
+I’ve never had a poor performance review (be sure this is true) and the one or two times in my career that I might have been passed over for promotion, it worked out best for the organization and therefore it worked out well for me. My experiences then have shown me that if I perform well pay raises, promotions, etc., always take care of themselves.
+Q. What do you think about _________________ (any controversial issue, for example, politics, religion, or anything in the news that might be controversial)? (If it is something that is controversial, no matter what your opinion is, don’t give it.)
+You know I am trying to learn more about _____________; I’d be interested to know what your opinion is.
+Q. You have been out of work for more than a year and have said that you could afford to do that. How do we know that if we hire you, you won’t quit after three or four months since you obviously can afford not to work?
+I was fortunate enough to be able to live frugally during that period of time. But it certainly wasn’t an extravagant lifestyle. I need to work not only emotionally and mentally, but also economically. I can’t afford to stay out of the workplace any longer.
+Q. Have you ever been involved in a lawsuit? Business or personal? 
+No, I’ve always stayed out of trouble and maintained cordial relations.
+
+
+Q. What will your boss say when you resign? Will he or she be upset?
+I’m sure my boss will be somewhat disappointed, but he or she has always been the kind that wants what’s best for everyone in the organization. He'll probably be glad for me.
+Q. This job and this company are real big risks. We don’t know how long we’re going to be able to make it. What do you think? 
+I'm at a point in my career and my life is such that I can take risks for sake of working on cool projects.  I don’t have a problem with a risky company or a risky opportunity as long as the rewards are there.
+Q. Can we contact your references, including present and former employers? (
+I have no problem with you checking my previous employment references when we get to the proper offer stage. But I certainly would not want anyone checking my present employer as I have not left, and they have no idea that I’m looking for a job.
+Q. Knowing what you know about the job you are interviewing for, what are the things that you’re going to dislike the most?
+Well, from what I know about, there might be some things that I may not like as well as others, but I haven’t found anything that I would dislike.
+Q. What is the least relevant job that you had? (Be pensive and think about this for a few moments.)
+Since the mid 1990's I've been working jobs that lead logically right up to this.  I worked in food service for some, but even that informs my work ethics.
+Q. Sometimes people stretch the truth or don’t tell the truth in order to protect themselves or their organization. Have you ever found it necessary to do this? (
+Yes, It's important sometimes to put a positive spin on things to sake of keeping things moving forward, but it's not good to be evasive or tell outright lies.  They always come out.
+
+Q. What is your energy level like? Describe one of your typical days. (
+I usually come in early each day and like the busy days.  some days there’s no call and I work cold cases and intractible bugs.
+ 
+Q. Have you done the best work you are capable of doing? 
+The longer I go the more I'm amazed at the things I've had the chance to work on, so yes. 
+
+Q. Can you work under pressure? Tell me about the most pressured situation you were in. (You should be able to relate a good story in answer to this question.)
+
+
+
+I’m constantly getting the heat when production events are down.  Yes, about half my calls are production blocking events. Sometime callers say, I have 60 guys of floor standing around and 6 trucks that need to go out right you need to fix this stat.  I've learned to handle that.
+
+Q. Describe the most difficult problem you had to deal with. 
+Turnover HR, layoffs, getting up to speed with unfamiliar tech.
+Specific.  At A&WMA the biggest problem was a time when we had to do a big round of layoffs.  This had a real human toll in terms of morale and amount of extra work everyone had to do.  We adjusting by picking up the peices.
+
+
+Q. How do you manage to interview while still employed? 
+My work hours are flexible and most of hours are night shift.  My focus is the second shift and my hours are in 2-11 range.  I haven’t trumpted this fact because sometimes it’s assumed I’m an hourly guy sitting around for the phone to ring.
+
+Q. When would you expect a promotion?
+Promotions happen with or without.  Sometimes time itself at a company make you part of the woodword.
+
+Q. What kinds of decisions are most difficult for you? 
+
+A change in course.  I wrestled with even looking around for other work from my current position, because I haven't been there very long.  But I need take responsibility for my career.  If ended up leaving they will ok.
+
+Q. Your résumé shows that you been with one company a long time without any appreciable increase in rank or salary. Tell me about this.
+I was continually challenged and was constantly growing as a pro at A&WMA.  I was considered a critical part of the team up until the day I left.
+
+Q. What area of your skills and professional development do you want to improve at this time? (My background in open source development.  My career by choice has been MS focused and I've achieved a high level of profiency, by I don't like being tied to the fortunes of one company.  I’d like to learn more about alogrithms.
+
+Q. How long have you been looking for another position? Why are you looking to move.
+
+This looked like an outstanding opportunity to moving into a more fast-paced environment.. Moving on wasn’t an urgent issue for me, but the commute turned out to be a bigger problem than I thought.  I’d like to get into the web again.
+
+Q. What do you think of your current or last boss and previous bosses? (
+
+I’ve always had great bosses. Leadership is hard and followership is hard too. When I’ve disagreed with bosses I almost always figure out where they’re coming from and then it makes sense.
+
+Q. What would you do when you have a great deal of work to accomplish in a short time span? How have you reacted to that situation? (Be ready to answer this question with an appropriate story.)
+
+Get organized.  Plan it out.  There’s no time to waste on irrelevent tasks.   Set a good sequence for the work.
+
+I am constantly setting goals and planning. So, I set priorities for myself and for others. If I have a great deal of work to accomplish in a short time span, I have to analyze my priorities and pick the ones that are most important.
+Years ago, I reacted too emotionally and tried to get all of it done. I have found that, in cases like this, unless someone can put twenty-six hours in a day, I have to decide what the priorities are and act on them.
+Q. Tell me about a time when your team fell apart. Why did it happen? What did you do? 
+
+At AWMA there were cutbacks and the IT department went from 5 to 2.  We both had to pick up the slack to get the same work done with fewer people.  We also had to decide what we would not do.  Outsource services like blast emails, get consultants to do reports and upgrades.  Do reports ourselves. 
+
+Q. How did you feel about your workload at that company? (
+
+There’s always been very busy times that are balanced with slower times.
+
+I don’t think I’ve ever felt overloaded—maybe overwhelmed at moments, but never overloaded. The way I’ve avoided this is to always make a plan, and then work it in a calm, deliberate manner. Now, it may take long evenings and some weekends and a lot of focus time, but planning is the key.
+Q. After I get to know you, what will annoy me about you? (Don’t take this bait.)
+I’m a lousy typist.
+Then smile. Don’t get into anything more personal than this. It simply can’t help you.
+
+Q. Wow! Your grades are really low! What happened? (Take this question very seriously.)
+
+I regret allowing myself to fall behind as time went on.  I didn’t realize that down the road higher grades would be something i could be proud of.   That said, I knew I’d be going into IT and felt the coursework wasn’t relevent to what I would be, which to a large extent is true.  But the fact that I did get B.S. in engineering is something I’m proud of.
+
+Q. We found that you have had a number of DWIs. Can you explain? (It is best that you inform the hiring authority about your having DWIs before they are discovered with a background check.)
+Unfortunately, there was a time when I wasn’t as disciplined as I am now. That was over 10 years ago, and I can assure you nothing like that will happen again in the future.
+
+Q. You are changing careers. How do we know that if we hire you, you may not like your new career and go back to what you were doing before?
+
+
+I feel like I falled into something I was meant to do.  I’ve worked as strictly a developer, and as mostly a sysadmin.  What I like about support is that it pulls everything together with a human element that inclused the end user.  
+
+When I was a developer I didn’t have a phone.
+
+
+Stories
+-implement pm practices for UBC
+-hurriedly deleted data
+-allowed bad code into production
+-turnover problem, got more pro-active and helped engage employees in business
+-mentored junior eng, listened, give advice
+-there’s rockstars and roadies and show can’t go on without either one.
+
+Visible brands such as officemax, kraft, hd supply (home depot)
+
+Large, multigb databases, SAP integration
+Large user base, critical business function.  Stand between products and ships in the supply chain.
+Solid engineering professionals
+
+Situation - production impeding event , already optimized
+what i did was - optimized the sql
+conclusion - customer was happy, avoided code change, reduced late night calls
+
+Situation - too many emails with new user account
+what I did was: used a simple verification code based on a hash of the primary key so we didn’t have to persist the value.
+conclusion: cut down on call related to user account support
+
+Failed
+Situation - Consultant with university of pittsburgh, they wanted an email server which I set up. 
+What I did was - Explain that you already have these resources, and got their IT involved.
+Conclusion - There’s politics involved in large IT organization.  You need to keep them involved and not step on toes.
+
+Ongoing bug in my first three weeks where we were getting late night calls the prevented shipping.  I was new to and didn’t have the info I needed so I took it up the chain.   they came up with a manual workaround that didn’t solve the issue, but at least remedied it when it occurred.  The developer and another support engineer looked at it and told me it was a timeout issue in a large sproc and that they’d need a code solution that still might not.  What I did is I spent a night reviewing the sql code and found an optimization they’d overlooked which involved adding a where clause to reduce the join set.  This was qa’d and turned out to solve the problem, the customer and the support team where both happy that this was fixed.
+
+Failure, one time someone referred me to a client associated with the university of pittsburgh who needed IT support.  They were an autonomous unit who needed to get up to speed with email and file sharing.  But they were housed and affilliated with the business school  I set up an exchange server onsite when they could have gotten these services form the business school.  I was in the crossfire between departments.  I learned about the politics.
+
+when i was in the middle of building out UBC’s med school application we got a request to make the reference checks doable without having to create an account because they were tired of handling login and password issues. I thoght back to a good e-commerce experience I had.  I made a purchase of tickets and reiceived just a link and and a 5 alphanumeric char code like CDE45.  It was easy to hash the primary key and cap the left 5 digits to server as the password.  It provided reasonable security that the recipient received the email from us. The customer was delighted with the solution.
+
+
+
+I delete production data at OfficeMax.
+
+I let a bug get into production for MCG.
+
+I attempted to move into consulting.
+
+Phillips Pet wasn’t sure what the support function would be.
+
+Leave management to the managers.  Let them call the shots and be accountable for them.  Go along with unpopular decisions. 
+
+The biggest lesson I learned from ZAP is the importance of building and maintaining confidence in the systems you provide.  It becomes a self-reinforcing loop when you make big promises and take responsibility to meet and exceed them.  When in any way you do not meet the expectations you are answerable for your failings and learn from your mistakes in order to continually improve. 
+
+Set the high standards for yourself first, and meet them.  We were always ahead of our game and would sometimes push around lazy IT departments who would not complete their action items on time.   If we had a meeting about server readiness and DNS entries and they weren’t done the highter ups and internal customer knew about it and got it done stat. But we also learned that some people needed more hand holding and communication and progress checking.
+
+The biggest thing I’m learning at Lucas is personal responsibility and accountability.  You have to do whatever it takes to succeed.
+
+
+This biggest thing I learned at A&WMA is that IT is people oriented service that goes to the core of the mission.  Everything you do contributes in some way to the success of the business.  Any downtime is unacceptable and lots of people rely on you to be able to do their jobs.
+
+The second biggest things is ongoing professional development. School is just a start.  You need to stay up to speed via self study.
+
+Don’t like:
+-Saying anything you wouldn’t say to their face about a customer.  Some times it okay to blow off steam but it’s important to realize they are partners in business and should be treated well, that’s why we’re here.
+
+ What are some of the things you do stay sharp.
+
+Follow peers in the industry local and outside pittsburgh to stay up with what’s going on.
+Subscribe to oreilly safari to have access to technical help other than blogs and stack overflow
+Do quick sample problems in javascript or other languages
+
+Stories
+-implement pm practices for UBC
+-hurriedly deleted data
+-allowed bad code into production
+-turnover problem, got more pro-active and helped engage employees in business
+-mentored junior eng, listened, give advice
+
+Seasoned admin/dev/support/pro who likes rock stars but is content with being a roadie.
+Who are you? someone who's been working on cool stuff that past few years.
+More challenging work. Closer to home. 
+Fast paced.
+Someone who thrives on learning new skills to solve engaging problems.
+Personal brand
+-engineer with 15+ years in sys and dev
+-existing depth , get up to speed quick
+-not a rock start
+-community oriented groups, asn, volunteered with AAN
+
+-I'm someone who likes working on cool stuff
+the last few years I've had the chance to do that
+
+--strengths - reverse engineering systems quickly with minimal doc
+--know how to listen, I know how to hear people out.
+--maintain composure under pressure
+--weaknesses
+
+-not assertive, like to be a peacekeeper, but I will push back if someone goes too far.
+
+
+--yes sir....
+What other notes do you have
+what are the next steps.
+
+Based on this conversation, do you think I'll be a good fit?
+Do you have other credible candidates for the job right now?
+
+You have to ask cutting questions at the end, because by then it’s too late to ask informational.
+
+What does your candidate pool look like right now? Do I compare favorably with anyone else you may have spoken with? If so, are you looking to get someone in there soon?  
+
+
+You probably have salary range in mind for someone in this position with my qualifications.  
+
+I’m currently in the low 60’s with up to a 10% bonus, and am looking to stay in that range. But that said I’d have to the overall compensation including time off and health insurance.
+
+story: I helped grow zap from a 3 person, 3 school team, to a 12 person 24 school team
+
+story:  I continuously expanded from abilities from building servers to sophisticated data-driven websites
+
+story: I've been a lead developer who's learned that support is hard and fulfilling too.
+
+does what I can bring align with what you're looking for?
+
+do you have any misigivings that my platform specifc background is %100 transferable?
+
+do you feel my age and experience is a plust or a minus?
+
+Support is about composure under pressure
+
+programming problem, get a toolkit,
+
+How do I stack up against other candidates in the marketplace?
+
+I want this job, what do I need to do close on this?
+
+I have the tech bg, I fit in,
+
+How long, a long as I can.  I was hoping to stay at current for 2 years.
+
+strengths:hardworking, studious, smart, persistent, motivated, good listener
+weaknesses:idealistic, not assertive, listener
+
+Why are looking to move?  More engaging work environment, something more fast paced, closer to home.
+
+engineering group, 
+
+
+
+
+
+
+
+
+
