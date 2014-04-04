@@ -11,5 +11,3 @@ function GetMB(l) {
 }
 
 console.log(GetMB(line1));
-
-
