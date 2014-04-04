@@ -6660,6 +6660,7 @@ soysauce.togglers = (function() {
             content.find("[data-ss-component='content']").attr("data-ss-state", "closed");
           }
           height = content.outerHeight(true);
+          $('body').append('<div>height of content is ' + height + '</div>' );
           content.attr("data-ss-slide-height", height);
           if (!content.attr("data-ss-open-onload")) {
             content.css("height", "0px");
