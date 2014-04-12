@@ -1,5 +1,6 @@
 
 var async = require('async');
+var request = request('request');
 
 function f1(req, res, next) {
  res.f1 = 'data from f1';
@@ -21,8 +22,6 @@ function rend(er,result, a) {
     console.log('rend ' + result);
 //          res.render('test', { data: res.f1 });
 }
-
-
 
 function doStuff(req, res, next) {
     async.applyEach([f1, f2, f3], req, res, cb);
